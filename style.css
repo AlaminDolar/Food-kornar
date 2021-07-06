@@ -1,1 +1,41 @@
+.Flexy{
+    display: flex;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+
+ .Left-side-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.Flexy img{
+    width: 90%;
+    padding-right: 5%;
+}
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: large;
+    text-align: justify;
+    padding-bottom: 5%;
+}
+
+a{   
+     text-decoration: none;
+    background-image: linear-gradient(rgb(255, 81, 0) , tomato);
+    padding: 10px 30px;  
+    border-radius: 10px;
+    color: aliceblue; 
+    font-weight: 700; 
+    
 
